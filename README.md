@@ -56,6 +56,7 @@ Content-Type: application/json \
 Headers: \
 { \
     "Authorization":"Token cb0389fa588a479ca30191d6d7403e4b15fa84f4" \
+    "X-CSRFToken":"bqI9EO39p57VnlrNK6xkqAIBD6Ym3x67"\
 } \
 Without the correct token you will not be authenticated.
 
@@ -128,6 +129,7 @@ HTTP Method : GET \
 headers: \
 { \
     "Authorization":"Token cb0389fa588a479ca30191d6d7403e4b15fa84f4" \
+    "X-CSRFToken":"bqI9EO39p57VnlrNK6xkqAIBD6Ym3x67"\
 } 
 
 response: \
